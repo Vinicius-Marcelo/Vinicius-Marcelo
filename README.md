@@ -26,8 +26,8 @@ const viniciusBarros = {
 <div align="center" display="flex">
   <div display="flex" flex-direction="column">
   <a href="https://github.com/Vinicius-Marcelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Marcelo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Marcelo&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Marcelo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Marcelo&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   <img src="https://media.giphy.com/media/gH6jM4xcOCEyRCYKpT/giphy.gif" width="500">
 </div>
