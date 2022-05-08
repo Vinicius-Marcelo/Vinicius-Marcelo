@@ -31,7 +31,7 @@ const vinicius = {
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Marcelo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Marcelo&layout=compact&langs_count=7&theme=onedark"/>
 </div>
-  <img src="https://media.giphy.com/media/gH6jM4xcOCEyRCYKpT/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/gH6jM4xcOCEyRCYKpT/giphy.gif" width="300">
 </div>
 
  
