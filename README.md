@@ -33,7 +33,5 @@ const vinicius = {
 </div>
   <img src="https://media.giphy.com/media/gH6jM4xcOCEyRCYKpT/giphy.gif" width="400">
 </div>
-  </br>
-  <a href="https://wakatime.com/@c1ede62c-c631-4a9f-8a27-01ffe9cb4503"><img src="https://wakatime.com/badge/user/604dc574-b498-4086-a563-66d1804a2585.svg" alt="Total time coded since Nov 16 2021" /></a>
 
  
