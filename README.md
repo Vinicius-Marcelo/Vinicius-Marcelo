@@ -14,8 +14,8 @@ const viniciusBarros = {
     age: 23,
     topicsForConversation: {
          web: ["dev", "technology", "news"],
-         movies: ["heroes", "Quentin Tarantino", "Steven Spielberg", "Christopher Nolan", "Lord of the Rings", "Star Wars"],
-    };
+         movies: ["heroes", "Quentin Tarantino", "Steven Spielberg", "Christopher Nolan", "Lord of the Rings", "Star Wars"]
+    },
     iHaveSkills: ["JavaScript", "React", "PostgreSQL", "DataBase", "HTML", "CSS", "GIT"],
     currentGoals; ["I got my first opportunity in the job market", "start and end the '#100DaysofCSS' ou '#100DaysofCode'"]
  };
