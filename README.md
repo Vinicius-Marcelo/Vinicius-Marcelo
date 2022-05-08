@@ -9,15 +9,17 @@
 </div>
 
 ```javascript
-const viniciusBarros = {
+const vinicius = {
     name: "Vinícius Barros",
     age: 23,
     topicsForConversation: {
          web: ["dev", "technology", "news"],
-         movies: ["heroes", "Quentin Tarantino", "Steven Spielberg", "Christopher Nolan", "Lord of the Rings", "Star Wars"]
+         movies: ["heroes", "Quentin Tarantino", "Steven Spielberg", "Christopher Nolan", "Lord of the Rings", "Star Wars"],
+         series: ["The Office", "Stranger Things", "The boys", "WandaVison", "Cobra Kai", "Mother Family"],
+         anime: ["Naruto"]
     },
     iHaveSkills: ["JavaScript", "React", "PostgreSQL", "DataBase", "HTML", "CSS", "GIT"],
-    currentGoals; ["I got my first opportunity in the job market", "start and end the '#100DaysofCSS' ou '#100DaysofCode'"]
+    currentGoals: ["I got my first opportunity in the job market", "start and end the '#100DaysofCSS' ou '#100DaysofCode'"]
  };
  ```
 ##
