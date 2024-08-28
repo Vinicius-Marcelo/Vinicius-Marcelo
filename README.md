@@ -11,15 +11,14 @@
 ```javascript
 const vinicius = {
     name: "Vinícius Barros",
-    age: 23,
+    age: 26,
     topicsForConversation: {
-         web: ["dev", "technology", "news"],
          movies: ["heroes", "Quentin Tarantino", "Steven Spielberg", "Christopher Nolan", "Lord of the Rings", "Star Wars"],
-         series: ["The Office", "Stranger Things", "The boys", "WandaVison", "Cobra Kai", "Mother Family"],
+         series: ["The Office", "Stranger Things", "The boys", "WandaVison", "Cobra Kai", "Mother Family", "This is Us"],
          anime: ["Naruto"]
     },
-    iHaveSkills: ["JavaScript", "React", "PostgreSQL", "DataBase", "HTML", "CSS", "GIT"],
-    currentGoals: ["I got my first opportunity in the job market", "start and end the '#100DaysofCSS' ou '#100DaysofCode'"]
+    iHaveSkills: ["JavaScript", "Typescript", "Python", "NodeJs", "DJango", "Panda", "NestJs",  "React", "NoSql", "MongooDB", "PostgreSQL", "GIT"],
+    currentGoals: ["I am a DevOps enthusiast and passionate about cloud computing"]
  };
  ```
 ##
@@ -33,5 +32,5 @@ const vinicius = {
 </div>
   <img src="https://media.giphy.com/media/gH6jM4xcOCEyRCYKpT/giphy.gif" width="400">
 </div>
-  <a href="https://wakatime.com/@c1ede62c-c631-4a9f-8a27-01ffe9cb4503"><img src="https://wakatime.com/badge/user/c1ede62c-c631-4a9f-8a27-01ffe9cb4503.svg" alt="Total     time coded since May 8 2022" /></a>
+  [![wakatime](https://wakatime.com/badge/user/c1ede62c-c631-4a9f-8a27-01ffe9cb4503.svg)](https://wakatime.com/@c1ede62c-c631-4a9f-8a27-01ffe9cb4503)
  
