@@ -32,5 +32,6 @@ const vinicius = {
 </div>
   <img src="https://media.giphy.com/media/gH6jM4xcOCEyRCYKpT/giphy.gif" width="400">
 </div>
-  [![wakatime](https://wakatime.com/badge/user/c1ede62c-c631-4a9f-8a27-01ffe9cb4503.svg)](https://wakatime.com/@c1ede62c-c631-4a9f-8a27-01ffe9cb4503)
+    <br/>
+  [![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
  
